@@ -7,7 +7,7 @@ Test-first approach to building a console version using Go.
 
 ## Using
 
-After `gpm install`, use `npm start` to see a random environment. Press `ESC` key to stop it.
+After `gpm install`, and `go build`, use `./yaiocgolig` to start the web server.
 
 ## Next
 
